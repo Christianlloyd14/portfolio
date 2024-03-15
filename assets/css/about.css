@@ -1,0 +1,22 @@
+#about {
+    padding-bottom: 60rem;
+}
+
+#about_content {
+    color: white;
+    padding-left: 20px;
+    font-size: large;
+
+    margin: inline-block;
+}
+.aboutpic{
+    width: 300px;
+    height: auto;
+    border-radius: 20%;
+}
+
+.pic_content {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}

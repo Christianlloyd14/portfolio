@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+h1 {
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+
+a:hover {
+	color: #9DB2BF;
+	text-decoration: underline;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+#title {
+	padding-top: 100px;
+}
+
+body{
+	background-color: #27374D;
+}
